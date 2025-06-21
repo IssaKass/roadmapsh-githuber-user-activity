@@ -55,3 +55,7 @@ GitHub API Docs: [GitHub Events API](https://docs.github.com/en/rest/activity/ev
 
 - Node.js v18+ (for native fetch() support)
 - Internet connection
+
+---
+
+Sample solution for the [Github User Activity](https://roadmap.sh/projects/github-user-activity) challenge from [roadmap.sh](https://roadmap.sh).
